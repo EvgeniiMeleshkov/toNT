@@ -16,8 +16,7 @@
 JS:
 🔘Билеты на события (SQL):
      Ответ в файле .pdf ниже сообщения.⬇️
-     
-    https://github.com/EvgeniiMeleshkov/toNT/blob/main/JS1Meleshkov.pdf
+     https://github.com/EvgeniiMeleshkov/toNT/blob/main/JS1Meleshkov.pdf
      
 🔘Время из А в В: 
 
